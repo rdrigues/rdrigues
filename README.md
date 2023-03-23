@@ -7,7 +7,7 @@
 
 <a href="https://www.linkedin.com/in/diogorodriguesdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdrigues&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdrigues&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdrigues&show_icons=true&theme=tokyonight" >  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrigues&layout=compact&langs_count=16&theme=tokyonight">
 
 <h2>Tecnologias que ultilizo no meu dia a dia</h2>
 

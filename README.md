@@ -8,7 +8,7 @@
 - 😛 Correndo atras de aprender JavaScript
   
 
-<a target = blank href="https://www.linkedin.com/in/rdrigues/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a target="_blank" href="https://www.linkedin.com/in/rdrigues/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rdrigues&show_icons=true&theme=tokyonight" >  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rdrigues&layout=compact&langs_count=16&theme=tokyonight">
 
